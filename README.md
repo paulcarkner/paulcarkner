@@ -1,5 +1,5 @@
 ### About Paul
-- Currently seeking employment as a ***React Front-end Web Developer***
+- Currently seeking employment as a ***React Front-end Web Developer*** - [Resume](https://paulcarkner.dev/resume/)
 - Skilled in **React**, **JavaScript ECMAScript 2021 (ES12)**, **HTML5**, **CSS Modules**
 - Learning **TypeScript**, **Redux**
 - Experience in **C# ASP.NET (Razor, MVC)**, **jQuery**, **T-SQL**
