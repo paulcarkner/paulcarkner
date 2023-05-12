@@ -1,5 +1,8 @@
 ### About Paul
 - Currently seeking employment as a ***React Front-end Web Developer***
+- Skilled in **React**, **JavaScript ECMAScript 2021 (ES12)**, **HTML5**, **CSS Modules**
+- Learning **TypeScript**, **Redux**
+- Experience in **C# ASP.NET (Razor, MVC)**, **jQuery**, **T-SQL**
 
 <!--
 **paulcarkner/paulcarkner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
