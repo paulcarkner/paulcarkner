@@ -1,4 +1,5 @@
-### Hi there 👋
+### About Paul
+- Currently seeking employment as a ***React Front-end Web Developer***
 
 <!--
 **paulcarkner/paulcarkner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
