@@ -1,7 +1,7 @@
 ### About Paul
 - Currently seeking employment as a ***React Front-end Web Developer*** - [Resume](https://paulcarkner.dev/resume/)
 - Skilled in **React**, **JavaScript ECMAScript 2021 (ES12)**, **HTML5**, **CSS Modules**
-- Learning **TypeScript**, **Redux**
+- Recently learned **TypeScript**, **Redux**
 - Experience in **C# ASP.NET (Razor, MVC)**, **jQuery**, **T-SQL**
 - 20+ year in web development with over 20,000 hours combined experience
 - B.Sc. Applied Physics from University of Waterloo & MBA in Enrepreneurship from Wilfrid Laurier University
