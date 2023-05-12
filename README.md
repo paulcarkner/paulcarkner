@@ -3,6 +3,8 @@
 - Skilled in **React**, **JavaScript ECMAScript 2021 (ES12)**, **HTML5**, **CSS Modules**
 - Learning **TypeScript**, **Redux**
 - Experience in **C# ASP.NET (Razor, MVC)**, **jQuery**, **T-SQL**
+- 20+ year in web development with over 20,000 hours combined experience
+- B.Sc. Applied Physics from University of Waterloo & MBA in Enrepreneurship from Wilfrid Laurier University
 
 <!--
 **paulcarkner/paulcarkner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
